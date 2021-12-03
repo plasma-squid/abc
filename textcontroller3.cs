@@ -12,6 +12,7 @@ public class textcontroller3 : MonoBehaviour
 {
 	//gitの確認用に挿入
 	//練習用にさらに追加
+	//さらに追加
     public Text nameText;//publicで宣言した〇〇型の変数はinspectorから素材を指定できる
     public Text mainText;
     public Image nameImage;
