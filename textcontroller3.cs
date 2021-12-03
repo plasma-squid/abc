@@ -12,6 +12,9 @@ public class textcontroller3 : MonoBehaviour
 {
 	//gitの確認用に挿入
 	//sourcetree確認用に挿入->ヤマキタ
+	//codeを追加->ヤマキタ
+	private string name = "ヤマキタ";
+
     public Text nameText;//publicで宣言した〇〇型の変数はinspectorから素材を指定できる
     public Text mainText;
     public Image nameImage;
